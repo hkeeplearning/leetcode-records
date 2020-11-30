@@ -12,7 +12,7 @@
 
 如果有字符串`"3322251"`，那么说这个字符串的数字字符串这样构造：
 
-![countandsay](../asserts/38-cound-and-say/countandsay.jpg)
+![countandsay](../assets/38-cound-and-say/countandsay.jpg)
 
 ```c++
 class Solution {
